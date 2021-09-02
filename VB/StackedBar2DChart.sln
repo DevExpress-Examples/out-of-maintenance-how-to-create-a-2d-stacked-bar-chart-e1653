@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StackedBar2DChart", "StackedBar2DChart.vbproj", "{DF05831B-CD3D-4599-9F51-2DA25D36184F}"
 EndProject
